@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<daily_tasks>
+    <day date="20.06.22">
+        <task type="household" finished="true">
+            <title>Waesche waschen</title>
+            <desciption>selbsterklaerend</desciption>
+            <estimated_length>2</estimated_length>
+        </task>
+        <task type="ea" finished="false">
+            <title>Vorlesung</title>
+            <desciption>Video gucken</desciption>
+            <estimated_length>1</estimated_length>
+        </task>
+    </day>
+</daily_tasks>
